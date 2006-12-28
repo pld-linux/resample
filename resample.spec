@@ -4,7 +4,7 @@ Name:		resample
 Version:	1.8.1
 Release:	1
 License:	LGPL
-Group:		Libraries
+Group:		Applications/Sound
 #Source0Download: http://www-ccrma.stanford.edu/~jos/resample/Free_Resampling_Software.html
 Source0:	http://ccrma.stanford.edu/~jos/resample/%{name}-%{version}.tar.gz
 # Source0-md5:	c3c1c64e4bb9b0bdc6062b8ad619aef1
