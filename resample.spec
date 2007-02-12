@@ -1,5 +1,5 @@
 Summary:	Free sampling-rate conversion and filter design utilities
-Summary(pl):	Wolnodostêpne narzêdzia do zmiany czêstotliwo¶ci próbkowania i filtrowania
+Summary(pl.UTF-8):   WolnodostÄ™pne narzÄ™dzia do zmiany czÄ™stotliwoÅ›ci prÃ³bkowania i filtrowania
 Name:		resample
 Version:	1.8.1
 Release:	1
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Free sampling-rate conversion and filter design utilities.
 
-%description -l pl
-Wolnodostêpne narzêdzia do zmiany czêstotliwo¶ci próbkowania i
+%description -l pl.UTF-8
+WolnodostÄ™pne narzÄ™dzia do zmiany czÄ™stotliwoÅ›ci prÃ³bkowania i
 filtrowania.
 
 %prep
