@@ -1,5 +1,5 @@
 Summary:	Free sampling-rate conversion and filter design utilities
-Summary(pl.UTF-8):   Wolnodostępne narzędzia do zmiany częstotliwości próbkowania i filtrowania
+Summary(pl.UTF-8):	Wolnodostępne narzędzia do zmiany częstotliwości próbkowania i filtrowania
 Name:		resample
 Version:	1.8.1
 Release:	1
